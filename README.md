@@ -26,6 +26,7 @@ I build iOS apps for iPhone, iPad, and Mac, and the open-source Swift frameworks
 | | Tool | Description | Links |
 |:-:|------|-------------|-------|
 | <img src="assets/monolith.png" width="64" alt="Monolith icon"> | **Monolith** | CLI that scaffolds iOS apps, Swift Packages, and Swift CLIs from production-grade templates, with 25 optional app features and App Store-ready configuration | [GitHub](https://github.com/Luminoid/Monolith) |
+| <img src="assets/tethersnap.png" width="64" alt="Tethersnap icon"> | **Tethersnap** | Mac app and CLI that export Nintendo Switch 2 screenshots and videos over USB, where macOS has no native support: thumbnail grid with group-by-game view, byte-exact exports, notarized DMG | [GitHub](https://github.com/Luminoid/Tethersnap) |
 
 ## 🌐 Web projects
 
