@@ -19,13 +19,13 @@ I build iOS apps for iPhone, iPad, and Mac, and the open-source Swift frameworks
 |:-:|---------|-------------|-------|
 | <img src="assets/lumikit.png" width="64" alt="LumiKit icon"> | **LumiKit** | Design tokens, themeable UI components, and utilities for UIKit apps. Swift 6.2 strict concurrency, 1,000+ tests | [GitHub](https://github.com/Luminoid/LumiKit) · [Swift Package Index](https://swiftpackageindex.com/Luminoid/LumiKit) · [Docs](https://swiftpackageindex.com/Luminoid/LumiKit/documentation/lumikitui) |
 | <img src="assets/prism.png" width="64" alt="Prism icon"> | **Prism** | Camera pipeline for iOS 18+: actor-isolated AVCaptureSession with async/await capture, full manual controls, and a Metal-backed Core Image filter chain | [GitHub](https://github.com/Luminoid/Prism) · [Swift Package Index](https://swiftpackageindex.com/Luminoid/Prism) |
-| <img src="assets/sophon.png" width="64" alt="Sophon icon"> | **Sophon** | AI infrastructure: Gemini client with configurable retry policies, schema-constrained structured output, lenient LLM JSON decoding, and a model catalog that falls back automatically when a model is retired | [GitHub](https://github.com/Luminoid/Sophon) |
+| <img src="assets/sophon.png" width="64" alt="Sophon icon"> | **Sophon** | AI infrastructure: Gemini client with configurable retry policies, schema-constrained structured output, lenient LLM JSON decoding, and a model catalog that falls back automatically when a model is retired | [GitHub](https://github.com/Luminoid/Sophon) · [Swift Package Index](https://swiftpackageindex.com/Luminoid/Sophon) · [Docs](https://swiftpackageindex.com/Luminoid/Sophon/documentation/sophoncore) |
 
 ## 🛠️ Tools
 
 | | Tool | Description | Links |
 |:-:|------|-------------|-------|
-| <img src="assets/monolith.png" width="64" alt="Monolith icon"> | **Monolith** | CLI that scaffolds iOS apps, Swift Packages, and Swift CLIs from production-grade templates, with 25 optional app features and App Store-ready configuration | [GitHub](https://github.com/Luminoid/Monolith) |
+| <img src="assets/monolith.png" width="64" alt="Monolith icon"> | **Monolith** | CLI that scaffolds iOS apps, Swift Packages, and Swift CLIs from production-grade templates, with 25 optional app features and App Store-ready configuration | [GitHub](https://github.com/Luminoid/Monolith) · [Swift Package Index](https://swiftpackageindex.com/Luminoid/Monolith) |
 | <img src="assets/tethersnap.png" width="64" alt="Tethersnap icon"> | **Tethersnap** | Mac app and CLI that export Nintendo Switch 2 screenshots and videos over USB, where macOS has no native support: thumbnail grid with group-by-game view, byte-exact exports, notarized DMG | [GitHub](https://github.com/Luminoid/Tethersnap) |
 
 ## 🌐 Web projects
