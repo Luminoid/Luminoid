@@ -30,6 +30,7 @@ I build iOS apps for iPhone, iPad, and Mac, and the open-source Swift frameworks
 
 ## 🌐 Web projects
 
+- 🎸 [**Nagori**](https://guitar.luminoid.dev): guitar chords and tabs with synthesized playback, video sync and practice tools, bring your own songs ([source](https://github.com/Luminoid/nagori))
 - 📷 [**LensDB**](https://lens.luminoid.dev): comparison chart for 721 mirrorless lenses across 20 brands ([source](https://github.com/Luminoid/lens-db))
 - 📜 [**Echoes**](https://echoes.luminoid.dev): 2,300+ curated quotes in English and Chinese ([source](https://github.com/Luminoid/echoes))
 - 🔭 [**Spectral Lab**](https://lab.luminoid.dev): interactive optics and astrophysics visualizations ([source](https://github.com/Luminoid/spectral-lab))
