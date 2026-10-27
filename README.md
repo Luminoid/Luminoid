@@ -31,6 +31,7 @@ I build iOS apps for iPhone, iPad, and Mac, and the open-source Swift frameworks
 
 ## 🌐 Web projects
 
+- 🎵 [**Genryu**](https://genre.luminoid.dev): a family tree of popular music, 91 genres with their origins, lineage, key artists and records, and a synthesized sketch of each sound ([source](https://github.com/Luminoid/genryu))
 - 🎬 [**Agamotto**](https://timeline.luminoid.dev): watch order for eleven film and TV franchises, from Marvel to Westeros, with IMDb, Douban and Rotten Tomatoes ratings ([source](https://github.com/Luminoid/agamotto))
 - 🎸 [**Nagori**](https://guitar.luminoid.dev): guitar chords and tabs with synthesized playback, video sync and practice tools, bring your own songs ([source](https://github.com/Luminoid/nagori))
 - 📷 [**LensDB**](https://lens.luminoid.dev): comparison chart for 721 mirrorless lenses across 20 brands ([source](https://github.com/Luminoid/lens-db))
